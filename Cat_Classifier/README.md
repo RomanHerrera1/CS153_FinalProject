@@ -1,0 +1,9 @@
+The model is the Google Inception v3., with its 
+last layer retrained on a new dataset. It has 3
+labels: artificial cat, real cat, and neither.
+Artificial cats are trained on the attached artificial
+cat dataset that was handmade for this model. The 
+real cat and neither categories used the image dataset
+from https://www.kaggle.com/alessiocorrado99/animals10.
+This means, neither includes: dog, horse, elephant, butterfly,
+squirel, chicken, cow, sheep, and spider.
