@@ -12,3 +12,7 @@ If you want to run the code, you will need to download the kaggle dataset
 and create folders for real cats and the neither category again.
 (could not upload because too many images) You can try to use the move_files.py
 to make that quicker but there may be some pathing errors to watch for.
+
+I followed the guides from 
+
+For the youTube frame-collection, I used https://stackoverflow.com/questions/50876292/capture-youtube-video-for-further-processing-without-downloading-the-video but it did not work for me because of YouTube changes currrently but maybe it will work for you.
