@@ -13,6 +13,6 @@ and create folders for real cats and the neither category again.
 (could not upload because too many images) You can try to use the move_files.py
 to make that quicker but there may be some pathing errors to watch for.
 
-To do this project, I followed the guides from 
+To do this project, I followed the guides from  https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/, https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/, and  https://machinelearningmastery.com/save-load-keras-deep-learning-models/.
 
 For the youTube frame-collection, I used https://stackoverflow.com/questions/50876292/capture-youtube-video-for-further-processing-without-downloading-the-video but it did not work for me because of YouTube changes currrently but maybe it will work for you.
