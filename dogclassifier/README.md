@@ -1,4 +1,4 @@
-The model used was the Google Inception Model v3, with the last layer retrained on an artificial dog dataset. The dataset used to create the "real dog" dataset can be found at this link: https://www.kaggle.com/c/dogs-vs-cats/data
+The model used was the Google Inception Model v3, with the last layer retrained on an artificial dog dataset. The dataset used to create the "real dog" dataset can be found at this link: https://www.kaggle.com/c/dogs-vs-cats/data.
 The labels are artificial dogs and real dogs. 
 The handmade artificial dataset that the model was re-trained on is included.
 
