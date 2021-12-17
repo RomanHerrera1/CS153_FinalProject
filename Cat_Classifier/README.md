@@ -7,3 +7,8 @@ real cat and neither categories used the image dataset
 from https://www.kaggle.com/alessiocorrado99/animals10.
 This means, neither includes: dog, horse, elephant, butterfly,
 squirel, chicken, cow, sheep, and spider.
+
+If you want to run the code, you will need to download the kaggle dataset
+and create folders for real cats and the neither category again.
+(could not upload because too many images) You can try to use the move_files.py
+to make that quicker but there may be some pathing errors to watch for.
